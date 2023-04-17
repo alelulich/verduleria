@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(174, 209, 174);
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.section-verduleria{
+    background-color: rgb(231, 228, 228);
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 8px 0px rgba(0, 0, 0, 0.36);
+}
+ul{
+    padding: 0px;
+}
+li{
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border: 1px solid rgb(165, 162, 162);
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px 0px rgba(71, 71, 71, 0.36);
+    list-style: none;
+}
+p{
+    color: rgb(112, 111, 111);
+}
